@@ -1,0 +1,151 @@
+*{
+    margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px; 
+
+} 
+/* .my-div{
+    display: inline;
+    float: left;
+} */
+
+.navbar-container > div{
+ float: left;
+ 
+}
+.button-group > div {
+    float: left;
+}
+.brand-logo{
+    height: vh;
+    width:  8vw;
+}
+.list-div{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.list :first-child{
+ text-decoration: underline;
+}
+.list-item{
+    display: inline;
+    margin: 0 60px 50px 0;
+    font-weight:700;
+    font-size:larger;
+    font-family:Orbitron;
+}
+
+.search-icon{
+    width: 15px;
+    height: 15px;
+    margin-top: 5%;
+   }
+.nav-button{
+ font-size: 20px;
+ padding:8px 45px 2px 45px; 
+ border-radius:  12px;
+ border: solid black;
+ color:grey;
+ background-color:white;
+margin-top: 1%;}
+ 
+ .hero-container >div{
+    display: inline;
+
+ }
+ .hero{
+    position: absolute;
+    left: 40px;
+    top: 22%;
+   
+ }
+ .hero > img{
+      height:500px;
+ }
+ .globe{
+     position: absolute;
+     left: 49%;
+     top: 14%
+
+ }
+ .globe > img{
+     height: 55px;
+     width: 55px;
+ }
+ .square{
+    position: absolute;
+    left: 12%;
+    top: 44%;
+    z-index: -1;
+ }
+ .square >img{
+     height: 400px;
+     width: 320px;
+ }
+ .hero-container-right{
+  margin-top: 12%;   
+  float: right;
+  width: 60%;
+  text-align: center;
+  
+ }
+ .star{
+     position:absolute;
+     right: 55%;
+     top: 85%;
+ }
+ .star> img{
+    height: 45px;
+    width: 45px;
+ }
+ .hero-heading{
+     font-size: 55px;
+     font-family:Orbitron;
+ }
+ .hero-description{
+     text-align: center;
+     width: 60.5%;
+     height: 60.5%;
+     margin-left: 20%;
+     color:#787878;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     margin-bottom: 10%;
+ }
+ .button-email{
+     background-color:white;
+     color:#787878;
+     padding-left: 40px;
+ padding-right: 40px;
+ border-radius:  30px;
+     font-size: large;
+     font-family:Orbitron;
+     
+ }
+ .button-join{
+    background-color:black;
+    color: white;
+    padding-left: 10px;
+padding-right: 10px;
+border-radius:  40px;
+    font-size:20px;
+    font-family:Orbitron;
+    
+}
+.contact-heading{
+    margin-top: 8%;
+    font-size: 18px;
+    font-family: Poppins;
+    color:#787878;
+    margin-bottom: 0px;
+    font-weight:500;
+
+}
+
+.icons > span{
+ margin: 0px 0px 0px;
+ 
+}
+.icons>span>img{
+
+    width: 30px;
+}
