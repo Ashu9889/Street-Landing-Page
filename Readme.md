@@ -1,5 +1,10 @@
 # Street Style Landing Page
 
+This is basically a single page website made in HTML & CSS from scratch , which helped me to learn
+and explore various concepts of HTML & CSS . The most intresting thing while working on this project
+was that I have bound myself not to use flex box or grid property ,
+so that I can have better understanding of positions.
+
 > ## [Ashutosh Singh]()
 
 <br/>
@@ -21,10 +26,11 @@
 
 ## My Learnings
 
-- Explored about block and inline elements.
-- Learned about positions, z-index.
-- Learned about buttons.
-- Learned about adding image through CSS.
+---
+
+- Learned about how to write HTML in well structred manner.
+- Explored about various css properties like display, position , z-index .
+- Learned the use of selectors.
 
 ## How the website looks like
 
